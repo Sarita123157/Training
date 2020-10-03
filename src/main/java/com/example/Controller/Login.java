@@ -9,6 +9,6 @@ public class Login {
 	@RequestMapping("/")
 	public String index()
 	{
-	     return "index.jsp";
+	     return "index.html";
 	}
 }
